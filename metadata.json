@@ -1,0 +1,11 @@
+{
+  "name": "SyncPulse - INFRA 4.0",
+  "description": "Digital Engineering INFRA 4.0 platform featuring Automated Data Capture (Field-to-Model), Dynamic Schedule-Linking (WBS Automation), Discrepancy & Variance Alerting, Low-Bandwidth Offline Sync, and Real-Time EVM Analytics.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
